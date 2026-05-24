@@ -98,7 +98,7 @@ export default function LandingPage() {
           href: "#products",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/close-up-lamb-doner-kebab-served-flatbread-with-pickles-fries_141793-2040.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/close-up-lamb-doner-kebab-served-flatbread-with-pickles-fries_141793-2040.jpg?_wi=1"
       avatars={[
         {
           src: "http://img.b2bpic.net/free-photo/lovely-couple-enjoying-new-year-party_23-2149173295.jpg",
@@ -148,14 +148,14 @@ export default function LandingPage() {
           name: "Classic Beef Döner Wrap",
           price: "$9.50",
           variant: "Popular",
-          imageSrc: "http://img.b2bpic.net/free-photo/roasted-meat-with-flapjack-served-with-pickles_140725-1210.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/roasted-meat-with-flapjack-served-with-pickles_140725-1210.jpg?_wi=1",
         },
         {
           id: "2",
           name: "Chicken Shawarma Plate",
           price: "$12.00",
           variant: "Best Seller",
-          imageSrc: "http://img.b2bpic.net/free-photo/fried-chicken-wings-served-with-fresh-salad-onions_140725-3057.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/fried-chicken-wings-served-with-fresh-salad-onions_140725-3057.jpg?_wi=1",
         },
         {
           id: "3",
@@ -206,7 +206,7 @@ export default function LandingPage() {
           phoneTwo: {
             imageSrc: "http://img.b2bpic.net/free-photo/chicken-bbq-served-lavash-with-spicy-salad_114579-1992.jpg",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-lamb-doner-kebab-served-flatbread-with-pickles-fries_141793-2040.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-lamb-doner-kebab-served-flatbread-with-pickles-fries_141793-2040.jpg?_wi=2",
           imageAlt: "professional kitchen restaurant staff",
         },
         {
@@ -218,7 +218,7 @@ export default function LandingPage() {
           phoneTwo: {
             imageSrc: "http://img.b2bpic.net/free-photo/chef-cuts-tomatoes-meat-ramrod-with-onions-herbs-pita-bread_140725-3524.jpg",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/roasted-meat-with-flapjack-served-with-pickles_140725-1210.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/roasted-meat-with-flapjack-served-with-pickles_140725-1210.jpg?_wi=2",
           imageAlt: "professional kitchen restaurant staff",
         },
         {
@@ -230,7 +230,7 @@ export default function LandingPage() {
           phoneTwo: {
             imageSrc: "http://img.b2bpic.net/free-photo/two-pieces-lule-kebab-bbq-served-with-species-herbs_114579-1991.jpg",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/fried-chicken-wings-served-with-fresh-salad-onions_140725-3057.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/fried-chicken-wings-served-with-fresh-salad-onions_140725-3057.jpg?_wi=2",
           imageAlt: "professional kitchen restaurant staff",
         },
       ]}
